@@ -52,7 +52,4 @@ pip install numpy
 - Run The window in which you want to perform opearation
 - Run the Code
 
-                     cv2.putText(image, className, (10, 50), cv2.FONT_HERSHEY_SIMPLEX,
-                                 1, (0,0,255), 2, cv2.LINE_AA)
-```
-<img src="https://i.imgur.com/hcCnLIn.png">
+
